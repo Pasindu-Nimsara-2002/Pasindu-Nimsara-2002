@@ -2,17 +2,20 @@
 
 I'm **Pasindu Nimsara Kulasingham, a passionate learner and enthusiast in the fields of machine learning, computer vision, and robotics.
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-brightgreen)
-![Robotics](https://img.shields.io/badge/Robotics-Learner-blue)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Learner-blueviolet)
-![Python](https://img.shields.io/badge/Python-Enthusiast-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Learner-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Learner-EE4C2C?logo=pytorch&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics-Enthusiast-yellow)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
-![Git](https://img.shields.io/badge/Git-User-F05032?logo=git&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-Learner-008080)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-Learner-FF0000)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
+![Robotics](https://img.shields.io/badge/Robotics-blue)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-yellow)
+![Open Source](https://img.shields.io/badge/Open%20Source-brightgreen)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-008080)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000)
 
 
 
