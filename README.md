@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **@Pasindu-Nimsara-2002**, a passionate learner and enthusiast in the fields of machine learning, computer vision, and robotics.
+I'm **Pasindu Nimsara Kulasingham, a passionate learner and enthusiast in the fields of machine learning, computer vision, and robotics.
 
 ## 👀 I’m interested in ...
 - 🤖 Artificial Intelligence
