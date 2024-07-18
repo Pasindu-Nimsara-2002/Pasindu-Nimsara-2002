@@ -43,9 +43,6 @@ I'm Pasindu Nimsara Kulasingham, a passionate learner and enthusiast in the fiel
 - 📧 [Email](mailto:pasindunk2002@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pasindu-nimsara-829020287)
 
-## 😄 Pronouns: ...
-- He/Him
-
 ## ⚡ Fun fact: ...
 - I love solving puzzles and playing chess in my free time.
 
