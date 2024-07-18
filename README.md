@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Pasindu Nimsara Kulasingham, a passionate learner and enthusiast in the fields of machine learning, computer vision, and robotics.
+I'm Pasindu Nimsara Kulasingham, a passionate learner and enthusiast in the fields of machine learning, computer vision, and robotics.
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
 ![Robotics](https://img.shields.io/badge/Robotics-blue)
