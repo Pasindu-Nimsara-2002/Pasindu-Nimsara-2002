@@ -2,17 +2,18 @@
 
 I'm **Pasindu Nimsara Kulasingham, a passionate learner and enthusiast in the fields of machine learning, computer vision, and robotics.
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen)
-![Robotics](https://img.shields.io/badge/Robotics-Enthusiast-blue)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Researcher-blueviolet)
-![Python](https://img.shields.io/badge/Python-Developer-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-User-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-User-EE4C2C?logo=pytorch&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics-Hobbyist-yellow)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-brightgreen)
+![Robotics](https://img.shields.io/badge/Robotics-Learner-blue)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Learner-blueviolet)
+![Python](https://img.shields.io/badge/Python-Enthusiast-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Learner-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learner-EE4C2C?logo=pytorch&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-Enthusiast-yellow)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
 ![Git](https://img.shields.io/badge/Git-User-F05032?logo=git&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-Expert-008080)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-User-FF0000)
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-Learner-008080)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-Learner-FF0000)
+
 
 
 ## 👀 I’m interested in ...
