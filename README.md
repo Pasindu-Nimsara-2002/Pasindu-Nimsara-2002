@@ -4,7 +4,7 @@ I'm Pasindu Nimsara Kulasingham, a passionate learner and enthusiast in the fiel
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
 ![Robotics](https://img.shields.io/badge/Robotics-blue)
-![Embedded](https://img.shields.io/badge/Embedded%20Systems-black)
+![Embedded](https://img.shields.io/badge/Embedded%20Systems-green)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -24,6 +24,7 @@ I'm Pasindu Nimsara Kulasingham, a passionate learner and enthusiast in the fiel
 ## 👀 I’m interested in ...
 - 🤖 Artificial Intelligence
 - 🦾 Robotics
+- 📟 Embedded Systems & Firmware Development
 - 📸 Computer Vision
 - 📊 Machine Learning
 - 🌐 Open Source Projects
